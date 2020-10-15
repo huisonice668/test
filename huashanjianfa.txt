@@ -5,5 +5,8 @@ This line is modified by the second person
 
 ****
 
+<<<<<<< HEAD
 第三次修改尝试  edit by host, testing conflicts
+第三次修改尝试   edit by second person, testing conflicts
+>>>>>>
 
